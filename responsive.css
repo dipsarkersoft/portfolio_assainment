@@ -1,8 +1,10 @@
-/* Small devices (phones) */
-@media (max-width: 800px) {
+
+ @media (max-width: 800px)  {
+  
   .navbar-toggler-icon {
     background-color: aliceblue;
   }
+
   .nav-item{
     text-align: center;
     padding: 5px 0px;
@@ -64,35 +66,6 @@
         padding: 50px !important;
     }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   }
+
 
